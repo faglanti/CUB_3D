@@ -14,6 +14,8 @@
     
     ./cub3D map.cub
     
+<img width="720" alt="Снимок экрана 2023-02-24 в 18 09 37" src="https://user-images.githubusercontent.com/93204529/221186907-baa643b0-39c0-4a72-af29-cf06b1937ad3.png">
+
 Бонусная часть игры:
   Расширен функционал. Добавлены двери (открываются пробелом), управление камерой мышкой, анимированный спрайт.
   
@@ -22,3 +24,5 @@
     make bonus
     
     ./cub3D_bonus bonus.cub
+
+<img width="718" alt="Снимок экрана 2023-02-24 в 18 10 37" src="https://user-images.githubusercontent.com/93204529/221186926-9c0ab27c-9d18-42e9-aac3-de2c705701a4.png">
